@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://nishchal-kansara.web.app/assets/images/linkedin_banner.jpg"  />
+  <img alt="Nishchal Kansara" src="https://nishchal-kansara.web.app/assets/images/linkedin_banner.jpg"  />
 </div>
 
 ###
 
 <h1 align="left">Hi 👋, I'm Nishchal Kansara</h1>
 
-- 🌱 I’m currently learning **Data Science & Machine Learning**
-- 👨‍💻 All of my projects are available at [https://nishchal-kansara.web.app/](https://nishchal-kansara.web.app/)
+- 🌱 I’m currently learning **Python, Data Science & Machine Learning**
+- 👨‍💻 All of my projects are available at **[https://nishchal-kansara.web.app/](https://nishchal-kansara.web.app/)**
 - 📫 How to reach me **kansaranishchal@gmail.com**
 
 ###
@@ -16,7 +16,8 @@
 
 ###
 
-<p align="left">I am a motivated computer engineering student with experience as a PHP Developer Intern at Trishentures. I’ve worked on projects like CMS systems and digital profile management using PHP, MySQL, and Bootstrap. My interest in technology also extends to Data Science, where I’ve gained skills in Python, data analysis with Pandas and NumPy, and machine learning with Scikit-learn.<br><br>A self-learner at heart, I’m always excited to apply my knowledge to real-world problems. Whether developing apps or exploring data science, I’m passionate about creating solutions that make an impact. I’m currently focused on enhancing my programming skills and exploring new areas in tech.<br><br>If you’d like to connect or collaborate on interesting projects, feel free to reach out!<br><br>Check out my projects and resume:<br>Personal Website: https://nishchal-kansara.web.app/<br>Resume: https://nishchal-kansara.web.app/resume.html</p>
+<p align="left">I am a motivated Computer Engineering student with experience as a PHP Developer Intern at Trishentures. During my internship, I worked on projects like CMS systems and digital profile management using PHP, MySQL, and Bootstrap.<br><br>I am also currently learning Python, Data Science, and Machine Learning. During my internship at CodSoft, I had the chance to apply my knowledge to several data science projects, enhancing my skills and gaining practical experience.<br><br>I am passionate about technology and always looking to improve my skills. If you’d like to connect or collaborate on interesting projects, feel free to reach out!<br><br>Check out my projects and resume:<br>Personal Website: https://nishchal-kansara.web.app/<br>Resume: https://nishchal-kansara.web.app/resume.html<br><br>GitHub Repositories:
+<br>https://github.com/nishchal-kansara?tab=repositories</p>
 
 ###
 
