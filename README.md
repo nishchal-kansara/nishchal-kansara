@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I am a motivated Computer Engineering student with experience as a PHP Developer Intern at Trishentures. During my internship, I worked on projects like CMS systems and digital profile management using PHP, MySQL, and Bootstrap.<br><br>I am also currently learning Python, Data Science, and Machine Learning. During my internship at CodSoft, I had the chance to apply my knowledge to several data science projects, enhancing my skills and gaining practical experience.<br><br>I am passionate about technology and always looking to improve my skills. If you’d like to connect or collaborate on interesting projects, feel free to reach out!<br><br>Check out my projects and resume:<br>Personal Website: https://nishchal-kansara.web.app/<br>Resume: https://nishchal-kansara.web.app/resume.html<br><br>GitHub Repositories:
+<p align="left">Final-year Computer Engineering student with interest in AI, ML, Data Science, and web tech like PHP and MySQL. A quick learner and tech enthusiast, looking for an internship to gain hands-on experience and improve my skills.<br><br>I’ve worked as a PHP Developer Intern at Trishentures, where I contributed to real-time projects like a CMS blogging system and digital profile management, using PHP, MySQL, and Bootstrap.<br><br>I am passionate about technology and always looking to improve my skills. If you’d like to connect or collaborate on interesting projects, feel free to reach out!<br><br>Check out my projects and resume:<br>Personal Website: https://nishchal-kansara.web.app/<br>Resume: https://nishchal-kansara.web.app/resume.html<br><br>GitHub Repositories:
 <br>https://github.com/nishchal-kansara?tab=repositories</p>
 
 ###
