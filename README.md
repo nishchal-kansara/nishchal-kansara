@@ -6,9 +6,9 @@
 
 <h1 align="left">Hi 👋, I'm Nishchal Kansara</h1>
 
-- 🌱 I’m currently learning **Python, Data Science & Machine Learning**
+- 🌱 I’m currently learning **Data Analytics, Machine Learning, Data Science and Artificial Intelligence**
 - 👨‍💻 All of my projects are available at **[https://nishchal-kansara.web.app/](https://nishchal-kansara.web.app/)**
-- 📫 How to reach me **kansaranishchal@gmail.com**
+- 📫 How to reach me **kansaranishchal@gmail.com** | **https://www.linkedin.com/in/nishchal-kansara/**
 
 ###
 
@@ -16,7 +16,9 @@
 
 ###
 
-<p align="left">Final-year Computer Engineering student with interest in AI, ML, Data Science, and web tech like PHP and MySQL. A quick learner and tech enthusiast, looking for an internship to gain hands-on experience and improve my skills.<br><br>I’ve worked as a PHP Developer Intern at Trishentures, where I contributed to real-time projects like a CMS blogging system and digital profile management, using PHP, MySQL, and Bootstrap.<br><br>I am passionate about technology and always looking to improve my skills. If you’d like to connect or collaborate on interesting projects, feel free to reach out!<br><br>Check out my projects and resume:<br>Personal Website: https://nishchal-kansara.web.app/<br>Resume: https://nishchal-kansara.web.app/resume.html<br><br>GitHub Repositories:
+<p align="left">Final-year Computer Engineering student with interest in Data Analytics, Machine Learning, Data Science and Artificial Intelligence. A quick learner and tech enthusiast, skilled in problem-solving and programming, having worked on various projects. Eager to learn new technologies and apply my skills to real-world projects.
+<br><br>
+I am passionate about technology and always looking to improve my skills. If you’d like to connect or collaborate on interesting projects, feel free to reach out!<br><br>Check out my projects and resume:<br>Personal Website: https://nishchal-kansara.web.app/<br>Resume: https://nishchal-kansara.web.app/resume.html<br><br>GitHub Repositories:
 <br>https://github.com/nishchal-kansara?tab=repositories</p>
 
 ###
