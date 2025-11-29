@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning **Data Analytics, Machine Learning, Data Science and Artificial Intelligence**
 - 👨‍💻 All of my projects are available at **[https://nishchal-kansara.web.app/](https://nishchal-kansara.web.app/)**
-- 📫 How to reach me **kansaranishchal@gmail.com** | **https://www.linkedin.com/in/nishchal-kansara/**
+- 📫 How to reach me:
+  1. **kansaranishchal@gmail.com**
+  2. **https://www.linkedin.com/in/nishchal-kansara/**
 
 ![](https://komarev.com/ghpvc/?username=nishchal-kansara&color=green&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
 ![](https://img.shields.io/github/followers/nishchal-kansara?style=for-the-badge&color=green&abbreviated=true)
