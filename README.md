@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Nishchal Kansara" src="https://nishchal-kansara.web.app/assets/images/linkedin_banner.jpg"  />
+  <img alt="Nishchal Kansara" src="https://nishchal-kansara.web.app/images/banner.jpg"  />
 </div>
 
 ###
