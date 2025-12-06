@@ -14,6 +14,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nishchal-kansara&color=green&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
 ![](https://img.shields.io/github/followers/nishchal-kansara?style=for-the-badge&color=green&abbreviated=true)
+![](https://img.shields.io/github/stars/nishchal-kansara?style=for-the-badge&color=green&abbreviated=true)
 
 ###
 
